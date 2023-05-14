@@ -11,7 +11,7 @@ export default function App() {
       <Header name={'Revathi'} place={'Bangalore'}/>
       <h1>Main App</h1>
       <Component1 name={'React'} classAtended={2}/>
-      <Component2 number={1} topic={'React Basic Components'}/>
+      <Component2 number={1} topic={'Git Hub Deployment'}/>
       <Component3/>
       <Footer/>
     </div>

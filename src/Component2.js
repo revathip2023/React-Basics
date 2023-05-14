@@ -1,9 +1,9 @@
 import React from 'react'
 
-export default function Component2() {
+export default function Component2({number,topic}) {
   return (
     <div>
-      <h1>Component2</h1>
+      <h1>Assignments {number} topic={topic} </h1>
       
     </div>
   )
